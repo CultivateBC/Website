@@ -35,3 +35,7 @@ nav ul li a {
 h1 {
   font-family: 'Blackout Midnight';
 }
+
+#div1 {
+  border: 5px solid white; 
+}
