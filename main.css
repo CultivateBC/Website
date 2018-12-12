@@ -6,13 +6,13 @@ body {
   background:black;
 }
 
-ul {
+li {
   background: purple;
   color: white;
   display: inline-block;
   list-style-type: none;
 }
 
-ul {
+li {
   color: white;
 }
