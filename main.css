@@ -37,7 +37,7 @@ h1 {
 }
 
 #content {
-  border: black solid 10px;
+  border: white solid 10px;
   float: right;
   border-radius:8px;
 }
