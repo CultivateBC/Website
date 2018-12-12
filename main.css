@@ -10,6 +10,11 @@ header {
   padding: 15px 15px 0 15px;
 }
 
+nav ul {
+  margin: 0;
+  display: inline;
+}
+
 nav ul li {
   background: purple;
   color: white;
