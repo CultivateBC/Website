@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background: purple;
+  background: indigo;
   padding: 10px 10px 0 10px;
 }
 
@@ -21,7 +21,7 @@ nav ul {
 }
 
 nav ul li {
-  background: indigo;
+  background: purple;
   color: white;
   display: inline-block;
   list-style-type: none;
